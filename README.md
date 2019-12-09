@@ -7,7 +7,8 @@ This GitHub repository serves as the base for our deliverables for our final res
 
 The directory structure is as follows:
   
-  Group-Proposal: folder that holds our group's project proposal.
+  # Group-Proposal: 
+    folder that holds our group's project proposal.
   
   Final-Group-Project-Report: folder where group report detailing the project as a whole including research, methodologies, 
   and results.
