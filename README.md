@@ -19,3 +19,9 @@ The directory structure is as follows:
   gaberial-campese-individual-project: folder that holds files detailing individual efforts.
   
   fernando-zambrano-individual-project: folder that holds files detailing individual efforts.
+
+# Downloading Data
+
+Full Kaggle Dataset:
+
+Our subset (hosted in Google Bucket): wget https://console.cloud.google.com/storage/browser/finalproject-group7-ml2/train_subset.zip
