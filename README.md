@@ -14,6 +14,6 @@ The directory structure is as follows:
   
   Final-Group-Presentation: folder where the Final Project PowerPoint to be presented resides.
   
-  Code: folder where code lies that is used in this project.
+  Code: folder where code that is used in this project lies.
   
   Individual Reports: folder that holds 2 Individual Reports detailing our individual efforts.
