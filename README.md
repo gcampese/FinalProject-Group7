@@ -3,7 +3,7 @@
 # Fernando Zambrano
 Final Project Repository for Machine Learning II
 
-This GitHub repository serves as a base for our deliverables for our final research project in Machine Learning II.
+This GitHub repository serves as the base for our deliverables for our final research project in Machine Learning II.
 
 The directory structure is as follows:
   
