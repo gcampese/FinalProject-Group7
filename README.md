@@ -16,4 +16,6 @@ The directory structure is as follows:
   
   Code: folder where code that is used in this project lies.
   
-  Individual Reports: folder that holds 2 Individual Reports detailing our individual efforts.
+  gaberial-campese-individual-project: folder that holds files detailing individual efforts.
+  
+  fernando-zambrano-individual-project: folder that holds files detailing individual efforts.
