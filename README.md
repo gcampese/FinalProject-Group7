@@ -22,6 +22,8 @@ The directory structure is as follows:
 
 # Downloading Data
 
-Full Kaggle Dataset:
+Full Kaggle Dataset: https://www.kaggle.com/c/diabetic-retinopathy-detection/data
 
 Our subset (hosted in Google Bucket): wget https://console.cloud.google.com/storage/browser/finalproject-group7-ml2/train_subset.zip
+
+Run the above command to download to your environment.
