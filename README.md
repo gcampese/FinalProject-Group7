@@ -19,3 +19,11 @@ The directory structure is as follows:
   gaberial-campese-individual-project: folder that holds files detailing individual efforts.
   
   fernando-zambrano-individual-project: folder that holds files detailing individual efforts.
+
+# Downloading Data
+
+Full Kaggle Dataset: https://www.kaggle.com/c/diabetic-retinopathy-detection/data
+
+Our subset (hosted in Google Bucket): wget https://storage.googleapis.com/finalproject-group7-ml2/train_subset.zip
+
+Run the above command to download to your environment.
