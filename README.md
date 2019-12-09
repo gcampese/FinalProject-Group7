@@ -12,7 +12,7 @@ The directory structure is as follows:
   Final-Group-Project-Report: folder where group report detailing the project as a whole including research, methodologies, 
   and results.
   
-  Final-Group-Presentation: folder where Final Project PowerPoint to be presented resides.
+  Final-Group-Presentation: folder where the Final Project PowerPoint to be presented resides.
   
   Code: folder where code lies that is used in this project.
   
